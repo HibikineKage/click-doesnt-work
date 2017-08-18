@@ -1,0 +1,10 @@
+{
+  "homepage": "https://hibikinekage.github.io/click-doesnt-work/",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
